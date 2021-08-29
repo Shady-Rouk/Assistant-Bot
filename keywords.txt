@@ -1,0 +1,17 @@
+tell date 
+what is today's date 
+tell me the date 
+tell time
+what is the time 
+play rps 
+create file 
+make file 
+delete file 
+help
+set reminder
+set a reminder
+send an email
+send email
+play ttt
+calculate time
+open app
